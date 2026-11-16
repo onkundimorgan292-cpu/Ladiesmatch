@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Fresh Whole Milk (500ml)",
+    "category": "Dairy",
+    "price": 65,
+    "image": "images/milk.jpg",
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "White Sliced Bread (400g)",
+    "category": "Bakery",
+    "price": 65,
+    "image": "images/bread.jpg",
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Pure Cooking Oil (1L)",
+    "category": "Pantry",
+    "price": 320,
+    "image": "images/cooking-oil.jpg",
+    "inStock": true
+  },
+  {
+    "id": 4,
+    "name": "Brown Sugar (1kg)",
+    "category": "Pantry",
+    "price": 175,
+    "image": "images/sugar.jpg",
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Sifted Maize Meal (2kg)",
+    "category": "Grains & Flour",
+    "price": 150,
+    "image": "images/maize-meal.jpg",
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Body Lotion (400ml)",
+    "category": "Personal Care",
+    "price": 450,
+    "image": "images/lotion.jpg",
+    "inStock": false
+  }
+]
