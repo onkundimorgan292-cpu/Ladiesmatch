@@ -1,50 +1,23 @@
 [
   {
     "id": 1,
-    "name": "Fresh Whole Milk (500ml)",
+    "name": "Fresh Whole Milk 500ml",
     "category": "Dairy",
     "price": 65,
-    "image": "images/milk.jpg",
-    "inStock": true
+    "image": "images/IMG-20261014-WA0010.jpg"
   },
   {
     "id": 2,
-    "name": "White Sliced Bread (400g)",
+    "name": "White Sliced Bread 400g",
     "category": "Bakery",
-    "price": 65,
-    "image": "images/bread.jpg",
-    "inStock": true
+    "price": 60,
+    "image": "images/IMG-20260925-WA0097.jpg"
   },
   {
     "id": 3,
-    "name": "Pure Cooking Oil (1L)",
+    "name": "Granulated Sugar 1kg",
     "category": "Pantry",
-    "price": 320,
-    "image": "images/cooking-oil.jpg",
-    "inStock": true
-  },
-  {
-    "id": 4,
-    "name": "Brown Sugar (1kg)",
-    "category": "Pantry",
-    "price": 175,
-    "image": "images/sugar.jpg",
-    "inStock": true
-  },
-  {
-    "id": 5,
-    "name": "Sifted Maize Meal (2kg)",
-    "category": "Grains & Flour",
-    "price": 150,
-    "image": "images/maize-meal.jpg",
-    "inStock": true
-  },
-  {
-    "id": 6,
-    "name": "Body Lotion (400ml)",
-    "category": "Personal Care",
-    "price": 450,
-    "image": "images/lotion.jpg",
-    "inStock": false
+    "price": 170,
+    "image": "images/sugar.jpg"
   }
 ]
